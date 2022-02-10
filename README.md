@@ -1,6 +1,6 @@
 
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5582556.png" width="489" height="84" alt="Luz Erandy" /></a>
 
-![](hi.jpg)
 
 ### Hola, bienvenidos 👋
 
@@ -14,6 +14,7 @@ Este es el perfil del estudiante 👨‍🏫 ✨ Luz Cruz ✨.
 
 - 📲 Horario:
 ![](load.jpg)
+
 |       | Lunes                                        | Martes                                       | Miércoles                                    | Jueves                                       | Viernes                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | 14:00 | Administración y  seguridad de redes         | Administración y seguridad de redes          | Administración y seguridad de redes          | Administración y seguridad de redes          | Administración y seguridad de redes          |
